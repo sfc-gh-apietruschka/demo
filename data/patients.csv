@@ -1,5 +1,5 @@
 "name","email","postal_code","medicare_nbr","dob","marital_status","gender","country"
 "Scott Enterprise","scott@test.com","5000","4123123451","1999","single","male","Australia"
-"Bev Jones","bev@abc.com",3000,"5123123222","1956", "married","female","Australia"
+"Bev Jones","bev@abc.com",3000,"5123123222","1956","married","female","Australia"
 "Lily James","lily@hotmail.com","2000","2123123454","1988","single","female","Australia"
 "Dennis Lily","james@gmail.com","5011","3123123321","2001","married",",male","Australia"
